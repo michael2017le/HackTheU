@@ -1,0 +1,7 @@
+C:\Users\metech\AppData\Local\Temporary Projects\SimpleSteganography\bin\Debug\SimpleSteganography.exe
+C:\Users\metech\AppData\Local\Temporary Projects\SimpleSteganography\bin\Debug\SimpleSteganography.pdb
+C:\Users\metech\AppData\Local\Temporary Projects\SimpleSteganography\obj\x86\Debug\SimpleSteganography.Form1.resources
+C:\Users\metech\AppData\Local\Temporary Projects\SimpleSteganography\obj\x86\Debug\SimpleSteganography.Properties.Resources.resources
+C:\Users\metech\AppData\Local\Temporary Projects\SimpleSteganography\obj\x86\Debug\SimpleSteganography.csproj.GenerateResource.Cache
+C:\Users\metech\AppData\Local\Temporary Projects\SimpleSteganography\obj\x86\Debug\SimpleSteganography.exe
+C:\Users\metech\AppData\Local\Temporary Projects\SimpleSteganography\obj\x86\Debug\SimpleSteganography.pdb

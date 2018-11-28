@@ -1,0 +1,9 @@
+C:\Users\erict\OneDrive\Documents\Weber\SimpleSteganography1\SimpleSteganography1\bin\Debug\SimpleSteganography1.exe
+C:\Users\erict\OneDrive\Documents\Weber\SimpleSteganography1\SimpleSteganography1\bin\Debug\SimpleSteganography1.pdb
+C:\Users\erict\OneDrive\Documents\Weber\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography1.csprojAssemblyReference.cache
+C:\Users\erict\OneDrive\Documents\Weber\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography.Form1.resources
+C:\Users\erict\OneDrive\Documents\Weber\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography.Properties.Resources.resources
+C:\Users\erict\OneDrive\Documents\Weber\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography1.csproj.GenerateResource.cache
+C:\Users\erict\OneDrive\Documents\Weber\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography1.csproj.CoreCompileInputs.cache
+C:\Users\erict\OneDrive\Documents\Weber\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography1.exe
+C:\Users\erict\OneDrive\Documents\Weber\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography1.pdb
